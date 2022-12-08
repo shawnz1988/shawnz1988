@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zx200604008
-- 👀 I’m interested in egame,engineering，nature world
+- 👀 I’m interested in egame,engineering，nature
 - 🌱 I’m currently learning C and Python,
-- 💞️ I’m looking on Internet
+- 💞️ I’m studying on Internet
 - 📫 How to reach me ...here!
 
 <!---
