@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shawnz1988
-- 👀 I’m interested in egame,engineering，nature
+- 👀 I’m interested in video games,engineering，nature
 - 🌱 I’m currently learning C and Python,
 - 💞️ I’m studying on Internet
 - 📫 How to reach me ...here!
